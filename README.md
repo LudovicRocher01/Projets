@@ -36,3 +36,11 @@ Editeur de code : Visual Studio Code
 Interactions multi-agents :
 Projet d'Intelligence Artificielle visant à implémenter une intelligence capable de résoudre le problème du jeu du Taquin à l'aide d'une approche cognitive. Pour se faire nous avons utilisé l'algorithme A* en Java.
 Editeur de code : IntelliJ
+
+Développement Mobile :
+Tps basique de déveoppement mobile Android traitant des bases. Création d'une interface apprenant à gérer les activités/vues, les ListView et Adapter, les injections de dépendance et les API. Ces exercices ont étés résolus en Kotlin.
+Editeur de code : Android Studio
+
+Apprentissage Profond :
+Tp lié au Tp de réseaux de neurones dans lequel nous avons étudié des nouveaux modèles de neurones et utilisant des tenseurs. Implémentation du modèle Shallow Network, Deep Learning ainsi que CNN.
+Editeur de code : Visual Studio Code
