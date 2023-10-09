@@ -20,3 +20,19 @@ Editeur de code : IntelliJ
 Sudoku :
 Le but de ce projet était de coder un Sudoku en C#. L'exercice demandé était plus précisemment de générer une grille de sudoku respectant toutes les règels su Sudoku, pour ce projet cela m'a été difficle car nous n'avons eu que très peu de cours en C# ce qui fait que je partais de rien, c'est donc plus mon binôme qui s'est investit dans ce projet et m'a expliqué certaines choses pour que je puisse travailler de mon côté. Nous n'avons pas retravailler de C# après cela. Ce projet nous a pris environ 15h de travail.
 Editeur de code : Visual Studio (2016)
+
+IPC :
+Différents Tps sur des problèmes classiques d'IPC/TPC effectués en groupe en Java. Ces Tps traitent de l'architecture Client/Serveur avec protocole FTP, HTTP ou mail. 
+Editeur de code : IntelliJ
+
+Cryptographie :
+Projet pour résoudre un problème de Cryptographie à l'aide de Python. Pour résoudre ce problème, nous utilisons les méthodes d'encryptage de Paillier ainsi que les propriétés homomorphiques vues afin d'appliquer l'encryptage par partie.
+Editeur de code : Visual Studio Code
+
+Réseaux de neurones :
+Nous avons dans ce projet implémenté l'algorithme de Konohen avec Python. Pour cela le projet se décompose en une partie théorique (comprendre et expliquer le fonctionnement de ce modèle, l'apprentissage...) puis une partie pratique basée sur l'implémentation et de nombreux tests basés sur la variation des différents paramètres du modèle.
+Editeur de code : Visual Studio Code
+
+Interactions multi-agents :
+Projet d'Intelligence Artificielle visant à implémenter une intelligence capable de résoudre le problème du jeu du Taquin à l'aide d'une approche cognitive. Pour se faire nous avons utilisé l'algorithme A* en Java.
+Editeur de code : IntelliJ
